@@ -1,0 +1,18 @@
+【悪い例】
+以下のPythonコードの意味を教えて
+def get_unique_users(user_list):
+    return list(set(user_list))
+
+【良い例】
+# 役割設定
+あなたはプログラマーです。
+# 背景・文脈
+言語はPythonを使用しています。
+# 指示
+下記のコードはどのような役割をしているのか教えてください
+def get_unique_users(user_list):
+    return list(set(user_list))
+# 制約条件
+箇条書きで記入すること
+# 出力形式
+日本語で出力してください。
